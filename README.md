@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🌱 I’m currently learning **React Native, Data Structures with C & C++**
+- 🌱 I’m currently learning **React JS, Data Structures with C & C++**
 
 - 📝 I regularly write articles on [https://vaibhav09.hashnode.dev/](https://vaibhav09.hashnode.dev/)
 
