@@ -2,14 +2,13 @@
 <h3 align="center">I'm Vaibhav Gupta, a 3rd year ECE Undergrad at Panjab University.</h3>
 <img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning **Node.js**
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently working on my personal website.
+- 🌱 I’m currently learning **backend development using Node.js and Express.**
+- 👯 I’m looking to collaborate on open source projects and love to learn new things.
 - 📝 I regularly write articles on [https://vaibhav09.hashnode.dev/](https://vaibhav09.hashnode.dev/)
 - 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **mrpriyanshu0901@gmail.com**
-- ⚡ Fun fact: **I love to cook food.**
+- ⚡ Fun fact : **I love to cook food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +30,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="38"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="38"/> </a>
+</p>
+<h3>More about me :</h3>
+<p>When I'm not coding, you'll find me reading tech blogs or exploring open-source projects. Feel free to reach out to me if you want to collaborate on a project, need help with something, or just want to chat!
 </p>
