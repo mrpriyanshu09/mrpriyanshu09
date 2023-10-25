@@ -62,7 +62,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vaibhavgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vaibhavgupta" /></a></p><br><br><br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact" alt="vaibhavgupta03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact" alt="vaibhavgupta03" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavgupta03&show_icons=true&locale=en" alt="vaibhavgupta03" /></p>
 
 
