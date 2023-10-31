@@ -16,35 +16,34 @@
 <br>
 	
 ## Resume:page_facing_up:
-<a href="https://drive.google.com/file/d/1bii1pcAkuCJQIQRF_ek8gl4blpz6gk0V/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1bii1pcAkuCJQIQRF_ek8gl4blpz6gk0V/view?usp=sharing" target="_blank">
 <img src="https://img.icons8.com/color/96/null/google-drive--v2.png"/>
 </a>
 
 ## Connect with me at
 	
-<p align="left"> <a href="https://twitter.com/vaibhavgupta090" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhavgupta090?logo=twitter&style=for-the-badge" alt="vaibhavgupta090" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vaibhavgupta090" target="_blank"><img src="https://img.shields.io/twitter/follow/vaibhavgupta090?logo=twitter&style=for-the-badge" alt="vaibhavgupta090" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/vaibhav-gupta-45a340225/" target="_blank"><img src="https://img.shields.io/badge/-Vaibhav%20Gupta-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-gupta-45a340225/" alt="vaibhavgupta" /></a> </p>
 
-[![Linkedin](https://img.shields.io/badge/-Vaibhav%20Gupta-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-gupta-45a340225/)](https://www.linkedin.com/in/vaibhav-gupta-45a340225/)
-	
 
 <h3 align="left">Profiles</h3>
 <table>
 	 <tbody>
   <tr>
    <td align="Center" width="25%"> 
-      <a href="https://www.leetcode.com/vaibhavgupta09" >
+      <a href="https://www.leetcode.com/vaibhavgupta09" target="_blank">
         <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="48" height="48" alt="Leetcode" />
       </a>
       <br>Leetcode
     </td>
     <td align="Center" width="25%"> 
-      <a href="https://auth.geeksforgeeks.org/user/mrpriyanshu09" >
+      <a href="https://auth.geeksforgeeks.org/user/mrpriyanshu09" target="_blank">
         <img src="https://img.icons8.com/color/452/GeeksforGeeks.png" width="48" height="48" alt="GFG" />
       </a>
       <br>Geeks For Geeks
     </td>
     <td align="Center" width="25%"> 
-      <a href="https://www.codingninjas.com/studio/profile/vaibhavgupta09" >
+      <a href="https://www.codingninjas.com/studio/profile/vaibhavgupta09" target="_blank">
         <img src="https://files.codingninjas.in/codingninjs-mob-29500.svg" width="48" height="48" alt="Coding Ninja" />
       </a>
       <br>Coding Ninja
@@ -155,7 +154,7 @@
 	 <tr>
 		  
 <td align="Center" width="25%">   
-        <a href="https://www.buymeacoffee.com/vaibhavgupta" >
+        <a href="https://www.buymeacoffee.com/vaibhavgupta" target="_blank">
         <img align="center" height="60" width="180" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
       </a>
   </td>
@@ -173,19 +172,19 @@
 	
 <p align="left">
   <br/>
-<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687104991359/69b20342-1b20-4c6c-9e67-5b1e1fe00c94.png?w=1920&h=75&fit=crop&crop=entropy&auto=compress,format&format=webp alt="JavaScript For Beginners" width="250px" align="left" /></a>
-<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners">JavaScript For Beginners</strong></a>
+<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687104991359/69b20342-1b20-4c6c-9e67-5b1e1fe00c94.png?w=1920&h=75&fit=crop&crop=entropy&auto=compress,format&format=webp alt="JavaScript For Beginners" width="250px" align="left" /></a>
+<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners" target="_blank">JavaScript For Beginners</strong></a>
 <br/> 
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is well-known for the development of web pages, and many non-browser environments also use it. JavaScript can be used for both client-side and server-side developments. Today in this blog, we will un... </p> <br/> <br/>
 	
 <p align="left">
-<a href="https://vaibhav09.hashnode.dev/react-flow-and-structure" title="Understanding React Structure"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697518521390/a046aba5-27e8-48df-8b02-ebf301092e59.png w=1920&h=75&fit=crop&crop=entropy&auto=compress,format&format=webp alt="Understanding React Flow And Structure" width="250px" align="left" /></a>
-<a href="https://vaibhav09.hashnode.dev/react-flow-and-structure" title="Understanding React Flow And Structure"><strong>Understanding React Flow And Structure</strong></a>
+<a href="https://vaibhav09.hashnode.dev/react-flow-and-structure" title="Understanding React Structure" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697518521390/a046aba5-27e8-48df-8b02-ebf301092e59.png w=1920&h=75&fit=crop&crop=entropy&auto=compress,format&format=webp alt="Understanding React Flow And Structure" width="250px" align="left" /></a>
+<a href="https://vaibhav09.hashnode.dev/react-flow-and-structure" title="Understanding React Flow And Structure" target="_blank"><strong>Understanding React Flow And Structure</strong></a>
 <br/> React is a popular JavaScript library for building user interfaces, particularly for single-page applications. It’s used for handling the view layer for web and mobile apps. There are various ways that we, as programmers, can control the flow... </p> <br/> <br/>
 
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
-<p><a href="https://hashnode.com/@vaibhavgupta"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+<p><a href="https://hashnode.com/@vaibhavgupta" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" /> </p>
