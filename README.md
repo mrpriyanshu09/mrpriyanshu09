@@ -173,7 +173,7 @@
 <p align="left">
   <br/>
 <a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687104991359/69b20342-1b20-4c6c-9e67-5b1e1fe00c94.png?w=1920&h=75&fit=crop&crop=entropy&auto=compress,format&format=webp alt="JavaScript For Beginners" width="250px" align="left" /></a>
-<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners" target="_blank">JavaScript For Beginners</strong></a>
+<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners" target="_blank"><strong>JavaScript For Beginners</strong></a>
 <br/> 
 JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is well-known for the development of web pages, and many non-browser environments also use it. JavaScript can be used for both client-side and server-side developments. Today in this blog, we will un... </p> <br/> <br/>
 	
