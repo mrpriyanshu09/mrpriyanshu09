@@ -7,7 +7,7 @@
 
 - Starting my day with a hearty breakfast of Data Structures, seasoned with a dash of C++. For lunch, I’m feasting on a platter of React.js and Tailwind CSS, and for dinner, I’m firing up the grill for some JavaScript. Bon appétit to coding cuisine!
 
-- In my brunch, I tried out technologies like Next.js and Three.js 🍽️
+- Exploring Next.js and Three.js over brunch - a feast for the mind! 🍽️
 
 -   Building projects just like having water in a day, yes! I drink and build a lot 🥤🏗️
 
