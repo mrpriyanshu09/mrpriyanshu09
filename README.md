@@ -4,6 +4,7 @@
 <h2> A day in my life 💭 </h2>
 
 -  I’m currently working on turning passion into pixels, yep! I am a frontend developer👩🏽‍💻
+-  I’m a frontend magician 🎩💻 who can turn coffee into code. Currently on a quest to conquer the backend beast. Stay tuned for more epic battles! 🐉
 
 - Starting my day with a hearty breakfast of Data Structures, seasoned with a dash of C++. For lunch, I’m feasting on a platter of React.js and Tailwind CSS, and for dinner, I’m firing up the grill for some JavaScript. Bon appétit to coding cuisine!
 
