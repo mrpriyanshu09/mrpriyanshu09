@@ -98,7 +98,7 @@
   </tr>
    </tbody>
 </table>
-<h4 align="left">Databases:</h4>
+<h4 align="left">Others:</h4>
 <table>
 	 <tbody>
   <tr>
@@ -114,14 +114,7 @@
       </a>
       <br>PostgreSQL
     </td>
-  </tr>
-   </tbody>
-</table>
-    <h4 align="left">Tools:</h4>
-<table>
-	 <tbody>
-  <tr>
-   <td align="Center" width="25%"> 
+	  <td align="Center" width="25%"> 
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
       </a>
@@ -130,7 +123,4 @@
   </tr>
    </tbody>
 </table>
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgupta03&theme=onedark" alt="vaibhavgupta03" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" /> </p>
