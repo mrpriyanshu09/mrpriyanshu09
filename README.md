@@ -169,23 +169,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vaibhavgupta03" /></p>
 <br>
 
-### My Blog Posts 👇
-	
-<p align="left">
-  <br/>
-<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687104991359/69b20342-1b20-4c6c-9e67-5b1e1fe00c94.png?w=1920&h=75&fit=crop&crop=entropy&auto=compress,format&format=webp alt="JavaScript For Beginners" width="250px" align="left" /></a>
-<a href="https://vaibhav09.hashnode.dev/javascript-for-beginners-a-complete-guide" title="JavaScript For Beginners" target="_blank"><strong>JavaScript For Beginners</strong></a>
-<br/> 
-JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is well-known for the development of web pages, and many non-browser environments also use it. JavaScript can be used for both client-side and server-side developments. Today in this blog, we will un... </p> <br/> <br/>
-	
-<p align="left">
-<a href="https://vaibhav09.hashnode.dev/react-flow-and-structure" title="Understanding React Structure" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697518521390/a046aba5-27e8-48df-8b02-ebf301092e59.png w=1920&h=75&fit=crop&crop=entropy&auto=compress,format&format=webp alt="Understanding React Flow And Structure" width="250px" align="left" /></a>
-<a href="https://vaibhav09.hashnode.dev/react-flow-and-structure" title="Understanding React Flow And Structure" target="_blank"><strong>Understanding React Flow And Structure</strong></a>
-<br/> React is a popular JavaScript library for building user interfaces, particularly for single-page applications. It’s used for handling the view layer for web and mobile apps. There are various ways that we, as programmers, can control the flow... </p> <br/> <br/>
-
-<div align="center">
-<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
-<p><a href="https://hashnode.com/@vaibhavgupta" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
-</div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" /> </p>
