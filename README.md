@@ -1,26 +1,14 @@
 <h1 align="center">:wave: Hey there! I'm Vaibhav Gupta</h1>
 <h3 align="center">Driven by Code, Inspired by Web Development.</h3>
 <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vaibhavgupta03" /></p>
 <h2> A day in my life 💭 </h2>
 
--  I’m currently working on turning passion into pixels, yep! I am a frontend developer👩🏽‍💻
 -  I’m a frontend magician 🎩💻 who can turn coffee into code. Currently on a quest to conquer the backend beast. Stay tuned for more epic battles! 🐉
-
 - Starting my day with a hearty breakfast of Data Structures, seasoned with a dash of C++. For lunch, I’m feasting on a platter of React.js and Tailwind CSS, and for dinner, I’m firing up the grill for some JavaScript. Bon appétit to coding cuisine!
- 
-- Exploring Next.js and Three.js over brunch - a feast for the mind! 🍽️
-
 -   Building projects just like having water in a day, yes! I drink and build a lot 🥤🏗️
 
-- Can’t let the chair get all the love, so I shake things up with a daily dose of aerobics! 🤸🏽‍♀️ Keeping the code clean and the body lean!
-
 <br>
-	
-## Resume:page_facing_up:
-<a href="https://drive.google.com/file/d/1bii1pcAkuCJQIQRF_ek8gl4blpz6gk0V/view?usp=sharing" target="_blank">
-<img src="https://img.icons8.com/color/96/null/google-drive--v2.png"/>
-</a>
-
 ## Connect with me at
 	
 <p align="left"> <a href="https://twitter.com/vaibhavgupta090" target="_blank"><img src="https://img.shields.io/twitter/follow/vaibhavgupta090?logo=twitter&style=for-the-badge" alt="vaibhavgupta090" /></a> </p>
@@ -36,12 +24,6 @@
         <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="48" height="48" alt="Leetcode" />
       </a>
       <br>Leetcode
-    </td>
-    <td align="Center" width="25%"> 
-      <a href="https://auth.geeksforgeeks.org/user/mrpriyanshu09" target="_blank">
-        <img src="https://img.icons8.com/color/452/GeeksforGeeks.png" width="48" height="48" alt="GFG" />
-      </a>
-      <br>Geeks For Geeks
     </td>
     <td align="Center" width="25%"> 
       <a href="https://www.codingninjas.com/studio/profile/vaibhavgupta09" target="_blank">
@@ -151,6 +133,4 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgupta03&theme=onedark" alt="vaibhavgupta03" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vaibhavgupta03" /></p>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" /> </p>
