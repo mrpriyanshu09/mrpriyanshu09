@@ -148,25 +148,9 @@
   </tr>
    </tbody>
 </table>
-
-<h3 align="left">Support:</h3>
-<table>
-   <tbody>
-	 <tr>
-		  
-<td align="Center" width="25%">   
-        <a href="https://www.buymeacoffee.com/vaibhavgupta" target="_blank">
-        <img align="center" height="60" width="180" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
-      </a>
-  </td>
-</tr>
-</tbody>
-  </table><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavgupta03&show_icons=true&locale=en&theme=onedark" alt="vaibhavgupta03" /></p>
-
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgupta03&theme=onedark" alt="vaibhavgupta03" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact&theme=onedark" alt="vaibhavgupta03" /></p>
 <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" /> </p>
