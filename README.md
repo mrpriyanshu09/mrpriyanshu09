@@ -8,12 +8,7 @@
     <img src="https://img.shields.io/badge/Hashnode-darkblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" /> </p>
-<h2 align="center">👨‍💻 About me </h2>
-
-- :telescope: I’m currently working on Full Stack Developer skills.
-- :seedling: I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System, Docker**
-- 📫 How to reach me **vaibhavgupta6393@gmail.com**
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" /> </p>
   
 ## Language & Tools :computer:
 <div align="center">
@@ -29,3 +24,5 @@
 </div>
 <h2>Github Overview </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact" alt="vaibhavgupta03" /></p>
+
+Reach me at **vaibhavgupta6393@gmail.com**
